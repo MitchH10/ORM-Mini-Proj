@@ -1,2 +1,2 @@
 DROP DATABASE IF EXISTS travel_db;
-CREATE DATABASE library_db;
+CREATE DATABASE travel_db;
